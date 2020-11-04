@@ -22,3 +22,5 @@ Four visualization pages, each with:
   -The plot/visualization itself for the selected comparison.
   
   -A paragraph describing the plot and its significance.
+  
+  A "Comparisons" page that:
