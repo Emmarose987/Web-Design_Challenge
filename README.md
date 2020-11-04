@@ -27,4 +27,6 @@ A "Comparisons" page that:
   
   -Contains all of the visualizations on the same page so we can easily visually compare them.
   
+  -Uses a bootstrap grid for the visualizations
+  
  
