@@ -14,3 +14,5 @@ A landing page containing:
   -An explanation of the project
   
   -Links to each visualizations page
+
+Four visualization pages, each with:
