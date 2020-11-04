@@ -16,3 +16,5 @@ A landing page containing:
   -Links to each visualizations page
 
 Four visualization pages, each with:
+
+  -A descriptive title and heading tag.
