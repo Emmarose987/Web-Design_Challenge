@@ -23,6 +23,8 @@ Four visualization pages, each with:
   
   -A paragraph describing the plot and its significance.
   
-  A "Comparisons" page that:
+A "Comparisons" page that:
   
-    -Contains all of the visualizations on the same page so we can easily visually compare them.
+  -Contains all of the visualizations on the same page so we can easily visually compare them.
+  
+ 
