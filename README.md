@@ -18,3 +18,5 @@ A landing page containing:
 Four visualization pages, each with:
 
   -A descriptive title and heading tag.
+  
+  -The plot/visualization itself for the selected comparison.
