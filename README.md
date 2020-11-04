@@ -20,3 +20,5 @@ Four visualization pages, each with:
   -A descriptive title and heading tag.
   
   -The plot/visualization itself for the selected comparison.
+  
+  -A paragraph describing the plot and its significance.
